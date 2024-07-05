@@ -1,8 +1,6 @@
 # **Desafio de Projeto**
 
 ## **Integração Python com SQLite e MongoDB**
-Nível: Avançado
-
 Conteúdo: Aplicação de conceitos de ORM e utilização de Frameworks e bibliotecas como SqlAlchemy, SQLite e Pymongo
 
 Linguagem: Python
