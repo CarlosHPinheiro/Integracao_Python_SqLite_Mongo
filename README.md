@@ -20,7 +20,7 @@ Fazer a integração de uma aplicação implementada em python com os bancos de 
 - Utilizar o esquema dentro do contexto de cliente e conta para criar as classes da API. Essas classes irão representar as tabelas do banco de dados relacional dentro da aplicação.
 
 - **Modelo Relacional**
-![modelo-relacional](modelo-relacional.png)
+![modelo-relacional](images/modelo-relacional.png)
 
 ----
 **Parte II**
@@ -36,4 +36,4 @@ Fazer a integração de uma aplicação implementada em python com os bancos de 
 - As informações de clientes e contas existentes deverão ficar contidas dentro de documentos extraídos das tabelas do modelo relacional.
 
 - **MongoDB Screenshot**
-![documentos-mongodb](MongoDBScreenShot.png)
+![documentos-mongodb](images/MongoDBScreenShot.png)

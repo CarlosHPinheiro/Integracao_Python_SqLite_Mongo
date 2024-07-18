@@ -1,8 +1,8 @@
-from sql_alchemy_app import (session,
+from sql_alchemy.sql_alchemy_app import (session,
                              Cliente,
                              Conta,)
 
-from mongo_app import (criar_documentos,
+from mongo.mongo_app import (criar_documentos,
                        buscar_doc)
 
 # Inserindo os dados nas tabelas no SQLite

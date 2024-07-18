@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-from sql_alchemy_app import criar_docs
+from mongo.sql_alchemy.sql_alchemy_app import criar_docs
 
 # Criando a Conexão no MongoDB
 connection_string = "mongodb+srv://<user>:<password>@cluster0.pvsagyb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
